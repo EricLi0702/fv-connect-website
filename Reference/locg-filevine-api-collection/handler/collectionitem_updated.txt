@@ -1,0 +1,20 @@
+Array
+(
+    [Timestamp] => 1606331103173
+    [Object] => CollectionItem
+    [Event] => Updated
+    [ObjectId] => Array
+        (
+            [ProjectTypeId] => 14090
+            [SectionSelector] => liens
+            [ItemId] => 32869130-2baf-4479-8618-dc46c5be1fe0
+        )
+
+    [OrgId] => 5322
+    [ProjectId] => 6817600
+    [UserId] => 20705
+    [Other] => Array
+        (
+        )
+
+)

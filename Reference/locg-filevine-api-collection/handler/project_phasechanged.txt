@@ -1,0 +1,20 @@
+Array
+(
+    [Timestamp] => 1606330714935
+    [Object] => Project
+    [Event] => PhaseChanged
+    [ObjectId] => Array
+        (
+            [ProjectTypeId] => 14090
+            [PhaseId] => 66406
+        )
+
+    [OrgId] => 5322
+    [ProjectId] => 6673202
+    [UserId] => 
+    [Other] => Array
+        (
+            [PhaseName] => LIT: Complaint Pending
+        )
+
+)

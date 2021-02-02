@@ -1,0 +1,20 @@
+Array
+(
+    [Timestamp] => 1606331122591
+    [Object] => CollectionItem
+    [Event] => Created
+    [ObjectId] => Array
+        (
+            [ProjectTypeId] => 14090
+            [SectionSelector] => clientCommunication_1
+            [ItemId] => c0ec8f69-aee4-40ea-8f2a-4752536ceaff
+        )
+
+    [OrgId] => 5322
+    [ProjectId] => 7631062
+    [UserId] => 30057
+    [Other] => Array
+        (
+        )
+
+)

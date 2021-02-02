@@ -1,0 +1,2 @@
+[19-Jan-2021 02:23:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ea8q7bm/public_html/portal/fv-connect-website/Common/database.php on line 12
+[19-Jan-2021 02:23:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ea8q7bm/public_html/portal/fv-connect-website/Common/database.php on line 12

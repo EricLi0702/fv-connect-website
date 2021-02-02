@@ -1,0 +1,12 @@
+.col-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    background-color: ghostwhite;
+}
+.col-12 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    background-color: ghostwhite;
+}

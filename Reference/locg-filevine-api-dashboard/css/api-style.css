@@ -1,0 +1,83 @@
+body {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+    background-color: #FBFBFB;
+}
+
+.header {
+	display: block;
+	margin: 50px 0 0 10px;
+}
+
+.logo {
+	display: block;
+}
+  
+.logo img {
+	max-height: 60px;
+}
+
+h1 {
+	margin-top: 40px;
+	color: #0f2c4d;
+}
+h2, h3 {
+	font-size: 1.4em;
+	margin-bottom: 10px;
+}
+
+.container {
+	margin-bottom: 100px;
+}
+
+a {
+    color: #0f2c4d;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+    color: grey;
+}
+.date-period {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}		
+.date-period label {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#dateperiod_filter {
+  margin-left: 50px;
+  width: 100px;
+}
+
+thead {
+	background-color: #0f2c4d;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+.change_log_form {
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.change_log_form label {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#project_phasechanegd_table_wrapper {
+    display: none;
+}
+#project_phasechanegd_table_wrapper #project_phasechanegd_table {
+    width: 100% !important;
+}
+#collectionitem_created_table_wrapper {
+    display: none;
+}
+#collectionitem_created_table_wrapper #collectionitem_created_table {
+    width: 100% !important;
+}
+#collectionitem_updated_table_wrapper {
+    display: none;
+}
+#collectionitem_updated_table_wrapper #collectionitem_updated_table {
+    width: 100% !important;
+}

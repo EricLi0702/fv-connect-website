@@ -1,0 +1,158 @@
+Array
+(
+    [answered] => 1
+    [business_phone_number] => +15614255202
+    [call_type] => answered
+    [company_id] => 688905922
+    [company_name] => Craig Goldenfarb, P.A.
+    [company_time_zone] => America/New_York
+    [created_at] => 2020-11-25T13:03:17.665-05:00
+    [customer_city] => Syosset
+    [customer_country] => US
+    [customer_name] => Robert Siegel
+    [customer_phone_number] => +15168157572
+    [customer_state] => NY
+    [device_type] => 
+    [direction] => inbound
+    [duration] => 331
+    [first_call] => 1
+    [formatted_call_type] => Answered Call
+    [formatted_customer_location] => Syosset, NY
+    [formatted_business_phone_number] => 561-425-5202
+    [formatted_customer_name] => Robert Siegel
+    [prior_calls] => 0
+    [formatted_customer_name_or_phone_number] => Robert Siegel
+    [formatted_customer_phone_number] => 516-815-7572
+    [formatted_duration] => 5m 31s
+    [formatted_tracking_phone_number] => 561-220-9141
+    [formatted_tracking_source] => Google My Business
+    [formatted_value] => --
+    [good_lead_call_id] => 
+    [good_lead_call_time] => 
+    [id] => 471531648
+    [lead_status] => 
+    [note] => 
+    [recording] => https://app.callrail.com/calls/CAL3128b0cff01d4fd9843a6c820464c829/recording/redirect?access_key=855f93df0030d1243244
+    [recording_duration] => 320
+    [source] => Google My Business
+    [source_name] => LOCG GMB
+    [start_time] => 2020-11-25T13:03:17.528-05:00
+    [tags] => Array
+        (
+        )
+
+    [total_calls] => 1
+    [tracking_phone_number] => +15612209141
+    [transcription] => 
+    [value] => 
+    [voicemail] => 
+    [waveforms] => Array
+        (
+            [0] => https://api.callrail.com/v2/calls/471531648/waveform.png?access_key=855f93df0030d1243244&width=177&height=30&fallback=standard&name=primary
+            [1] => https://api.callrail.com/v2/calls/471531648/waveform.png?access_key=855f93df0030d1243244&width=177&height=30&fallback=standard&name=secondary
+        )
+
+    [tracker_id] => 794510033
+    [keywords] => 
+    [medium] => Call
+    [referring_url] => 
+    [landing_page_url] => 
+    [last_requested_url] => 
+    [referrer_domain] => 
+    [conversational_transcript] => 
+    [utm_source] => Google
+    [utm_medium] => Call
+    [utm_term] => 
+    [utm_content] => 
+    [utm_campaign] => Google My Business
+    [utma] => 
+    [utmb] => 
+    [utmc] => 
+    [utmv] => 
+    [utmz] => 
+    [ga] => 
+    [fbclid] => 
+    [gclid] => 
+    [integration_data] => Array
+        (
+            [0] => Array
+                (
+                    [integration] => Webhooks
+                    [data] => 
+                )
+
+            [1] => Array
+                (
+                    [integration] => GoogleAnalytics
+                    [data] => Array
+                        (
+                            [ga_id] => UA-40821924-1
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [integration] => GoogleMyBusiness
+                    [data] => 
+                )
+
+            [3] => Array
+                (
+                    [integration] => GoogleAdword
+                    [data] => 
+                )
+
+            [4] => Array
+                (
+                    [integration] => Custom
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [keywords_spotted] => 
+    [recording_player] => https://app.callrail.com/v2/a/609605836/calls/CAL3128b0cff01d4fd9843a6c820464c829/recording?access_key=855f93df0030d1243244
+    [speaker_percent] => Array
+        (
+            [agent] => 76
+            [customer] => 24
+        )
+
+    [call_highlights] => Array
+        (
+        )
+
+    [agent_email] => 
+    [campaign] => LOCG GMB
+    [msclkid] => 
+    [keypad_entries] => 
+    [callercity] => Syosset
+    [callercountry] => US
+    [callername] => Robert Siegel
+    [callernum] => +15168157572
+    [callerstate] => NY
+    [callsource] => google_my_business
+    [custom] => Array
+        (
+        )
+
+    [datetime] => 2020-11-25 18:03:17
+    [destinationnum] => +15614255202
+    [kissmetrics_id] => 
+    [landingpage] => 
+    [referrer] => 
+    [referrermedium] => Call
+    [score] => 
+    [tag] => 
+    [trackingnum] => +15612209141
+    [timestamp] => 2020-11-25T13:03:17.528-05:00
+    [person_id] => 808246834
+    [person_resource_id] => PERc2578b52565c462e9fdd6818ebfad78c
+    [resource_id] => CAL3128b0cff01d4fd9843a6c820464c829
+    [company_resource_id] => COMa42eea1882bb448395284acb4121261e
+    [tracker_resource_id] => TRK86d078dd0e4c4d8480319f5362e5c0d6
+)
